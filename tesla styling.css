@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+video{
+    width: 100%;
+    z-index: -1;
+}
+video[s]{
+    width: 100%;
+    z-index: -1;  
+}
+img{
+    width: 140px;
+    position: fixed;
+    z-index: 9;
+}
+nav[a]{
+    position: fixed;
+    z-index:9;
+    background-color: rgb(18,25,43);
+    width: 1920px;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+div[g]{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.a{
+    margin: 0 0 0 100px;
+}
+p[a]{
+    margin: 0 0 0 50px;
+}
+a{
+    margin: 0 0 0 50px;
+    color: white;
+}
+header{
+    position: fixed;
+    z-index: 9;
+    color: white;
+    margin: 45px 0 0 500px;
+    grid: template columns auto 0.9fr auto ;
+}
+/* aside h1{
+    margin: 80px 0 0 550px ;
+    color:black;
+    font-size: 50px;
+    z-index: 2;
+    position: relative;
+} */
+div[third]{
+    background-image: url(tesla-Model-3-Desktop-NA.avif);
+    width:100% ;
+    height: 100vh;
+    background-size:cover ;
+    padding-top: 43px;
+border: 0;
+}
+aside[b]{
+    position: fixed;
+    color: gray;
+    margin: 50px 0 0 1100px;
+    background-color: aqua;
+}
+header[a]{
+    margin: 0 0 0 10px;
+}
+header[b]{
+    margin: 0 0 0 50px;
+}
+header[c]{
+    margin: 0 0 0 90px;
+}
+nav[c]{
+    position: fixed;
+    z-index: 9;
+    margin: 480px 0 0 420px;
+    display: flex;
+    align-items: center;
+}
+button{
+    width: 250px;
+    height: 45px;
+    border-radius: 5px;
+    border: 0;
+}
+button[a]{
+    background-color:rgb(28,30,32,0.8) ;
+    margin-right: 10px;
+    color: white;
+}
+button[b]{
+    background-color:rgb(158,160,163,0.8);
+   
+    
+}
+nav[d]{
+    position: fixed;
+    color: white;
+    z-index: 9;
+    margin: 550px 0 0 358px;
+}
+div[fourth]{
+    background-image: url(tesla-Model-X-Desktop-LHD.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 43px;
+}
+div[fifth]{
+    background-image: url(tesla-Model-S-Desktop-LHD-6.22.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 20px;
+}
+div[seventh]{
+    background-image: url(tesla_SolarPanels_D.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 25px;
+}
+div[eighth]{
+    background-image: url(teslaSolarRoof-Desktop-Global.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 20px;
+}
+div[nineth]{
+    background-image: url(tesla-Powerwall-Desktop.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 20px;
+}
+div[tenth]{
+    background-image: url(tesla-Accessories-Desktop-NA-APAC.avif);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 20px;
+}
+h1[d]{
+color: white;
+font-size: 40px;
+margin: 0px 0 0 550px;
+margin-top: 80px;
+}
+p[e]{
+color: white;
+margin: -10px 0 0 495px;
+font-size: 30px;
+}
+p[t]{
+    color: white;
+    margin: 0 0 0 480px;
+
+}
+p[r]{
+    color: white;
+    margin: -10px 0 0 535px;
+    font-size: 30px;
+    }
+p[g]{
+    color: white;
+    margin: -5px 0 0 548px;  
+} 
+h1[e]{
+color: black;
+font-size: 40px;
+margin: 0px 0 0 550px;
+margin-top: 80px;
+}
+a[r]{
+color: black;
+margin: -10px 0 0 555px;
+}
+p[h]{
+    margin: 0 0 0 530px;
+}
+div[c]{
+    top:10%;
+    text-align: center;
+    position: absolute;
+}
+div[d]{
+    top:10%;
+    text-align: center;
+    position: absolute;
+    margin-top:2800px ;
+}
